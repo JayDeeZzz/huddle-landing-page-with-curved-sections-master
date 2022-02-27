@@ -46,11 +46,6 @@
      flex-direction: column;
      gap: 15vh;
 }
- article{
-     display: flex;
-     flex-direction: column;
-     gap: 25vh;
-}
  header{
      padding: 2rem;
 }
@@ -106,6 +101,11 @@
 }
  .content{
      margin: 6rem 0;
+}
+.txt{
+     display: flex;
+     flex-direction: column;
+     gap: 25vh;
 }
  .cf{
      display: flex;
